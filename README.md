@@ -9,7 +9,7 @@ A lightweight iOS trip planner built with **SwiftUI** and **SwiftData** that ena
 - Persistent local storage using SwiftData
 
 ## Screenshot
-<img src="./screenshot.png" width="350"/>
+<img src="./screenshot1.png" width="350"/>
 
 ## Tech Stack
 - SwiftUI
