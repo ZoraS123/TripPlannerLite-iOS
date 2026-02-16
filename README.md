@@ -8,7 +8,8 @@ A simple SwiftUI trip planner that supports creating and deleting trips with on-
 - Swipe to delete
 - Data persists across app restarts (SwiftData)
 
-
+## Screenshot
+![TripPlannerLite](./YOUR_SCREENSHOT_FILENAME.png)
 
 ## Tech
 - SwiftUI
